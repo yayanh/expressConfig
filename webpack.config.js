@@ -43,7 +43,7 @@ module.exports = {
         }),
 
         new HtmlWebpackPlugin({
-            template: 'index.html'
+            template: 'content.html'
         })
     ]
 };
