@@ -12,8 +12,7 @@ module.exports = {
     entry: {
         '/dist/app':'./app/main.ts',
         '/dist/polyfills': './ts/polyfills.ts',
-        '/dist/vendor': './ts/vender.ts',
-        '/dist/hello':'./hello.ts'
+        '/dist/vendor': './ts/vender.ts'
     },
 
     output: {
